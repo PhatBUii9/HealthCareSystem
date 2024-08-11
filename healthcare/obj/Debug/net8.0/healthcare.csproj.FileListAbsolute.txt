@@ -1,0 +1,14 @@
+/Users/phatbui/Working Document/JRM/Project/HealthCare_Sytem/healthcare/bin/Debug/net8.0/healthcare
+/Users/phatbui/Working Document/JRM/Project/HealthCare_Sytem/healthcare/bin/Debug/net8.0/healthcare.deps.json
+/Users/phatbui/Working Document/JRM/Project/HealthCare_Sytem/healthcare/bin/Debug/net8.0/healthcare.runtimeconfig.json
+/Users/phatbui/Working Document/JRM/Project/HealthCare_Sytem/healthcare/bin/Debug/net8.0/healthcare.dll
+/Users/phatbui/Working Document/JRM/Project/HealthCare_Sytem/healthcare/bin/Debug/net8.0/healthcare.pdb
+/Users/phatbui/Working Document/JRM/Project/HealthCare_Sytem/healthcare/obj/Debug/net8.0/healthcare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phatbui/Working Document/JRM/Project/HealthCare_Sytem/healthcare/obj/Debug/net8.0/healthcare.AssemblyInfoInputs.cache
+/Users/phatbui/Working Document/JRM/Project/HealthCare_Sytem/healthcare/obj/Debug/net8.0/healthcare.AssemblyInfo.cs
+/Users/phatbui/Working Document/JRM/Project/HealthCare_Sytem/healthcare/obj/Debug/net8.0/healthcare.csproj.CoreCompileInputs.cache
+/Users/phatbui/Working Document/JRM/Project/HealthCare_Sytem/healthcare/obj/Debug/net8.0/healthcare.dll
+/Users/phatbui/Working Document/JRM/Project/HealthCare_Sytem/healthcare/obj/Debug/net8.0/refint/healthcare.dll
+/Users/phatbui/Working Document/JRM/Project/HealthCare_Sytem/healthcare/obj/Debug/net8.0/healthcare.pdb
+/Users/phatbui/Working Document/JRM/Project/HealthCare_Sytem/healthcare/obj/Debug/net8.0/healthcare.genruntimeconfig.cache
+/Users/phatbui/Working Document/JRM/Project/HealthCare_Sytem/healthcare/obj/Debug/net8.0/ref/healthcare.dll
